@@ -71,8 +71,3 @@ This project is especially relevant in an era where AI tools are increasingly pa
 Feel free to fork this repo or use the dataset and model structure for your own motivational or emotional intelligence projects 💖
 """
 
-# Save to markdown file
-extended_md_path = Path("/mnt/data/MotivaBot_Project_Description.md")
-extended_md_path.write_text(extended_description)
-
-extended_md_path.name
