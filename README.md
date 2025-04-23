@@ -1,6 +1,3 @@
-# Generate a standalone Markdown file with an extended project description
-
-extended_description = """\
 # 💬 MotivaBot: Your Personal Motivation Coach
 
 MotivaBot is a fine-tuned language model designed to provide motivational quotes based on users’ emotional inputs. Whether someone feels stuck, overwhelmed, or unsure, MotivaBot replies with an encouraging, supportive quote — just like a virtual cheerleader.
