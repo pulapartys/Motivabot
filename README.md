@@ -1,1 +1,4 @@
-# Motivabot
+💬 Project Description
+MotivaBot is a fine-tuned language model that generates motivational quotes based on users’ emotional states. Built on the lightweight and instruction-tuned google/flan-t5-small model, it takes natural language inputs like “I feel overwhelmed” or “I’m afraid of failing” and responds with uplifting, personalized encouragement.
+The model was fine-tuned using a custom dataset of 250 emotion–quote pairs and trained using Hugging Face's Trainer framework. MotivaBot demonstrates how Large Language Models (LLMs) can be adapted to emotionally intelligent use cases using low-resource fine-tuning techniques.
+The final system includes a web-based Gradio interface, making it easy to interact with the model and share it publicly. Whether you're looking for inspiration or just a few kind words, MotivaBot is your friendly, virtual cheerleader.
